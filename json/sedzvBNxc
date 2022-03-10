@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7833",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7833.png",
+  "dna": "fc8ed800add5d4711ac614b3dd0ef87ac5ef875f",
+  "edition": 7833,
+  "date": 1646649156581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon grey ponytail"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare construction suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

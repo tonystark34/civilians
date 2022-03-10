@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #6076",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/6076.png",
+  "dna": "18ea10dded3cbe9973b3a86fc392613c1fcbf22d",
+  "edition": 6076,
+  "date": 1646649060335,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare black hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

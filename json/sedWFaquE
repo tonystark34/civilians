@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8803",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8803.png",
+  "dna": "482bd073ca8c967dce81d49b0d7976ee000a7be3",
+  "edition": 8803,
+  "date": 1646649210791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary grey punk hairstylev"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary military uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

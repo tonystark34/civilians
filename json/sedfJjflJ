@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4505",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4505.png",
+  "dna": "d89a30c6656c5b2bc287b2d97b69c19dc0ca3d99",
+  "edition": 4505,
+  "date": 1646648978421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary brown Kozak hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "uncommonn whtie and grey uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes with glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

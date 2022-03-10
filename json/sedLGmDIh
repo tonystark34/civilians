@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5737",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5737.png",
+  "dna": "02a92645e9468577b761bdcc769254807a1b196d",
+  "edition": 5737,
+  "date": 1646649041876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare construction helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare cyber eye v.2.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7998",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7998.png",
+  "dna": "025ddc59a1211f5f544a4ea4ffee3895218bd939",
+  "edition": 7998,
+  "date": 1646649165836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Legendary purple skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare gold crown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic monk's suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

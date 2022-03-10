@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #2413",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/2413.png",
+  "dna": "cedfd5fba8fd89d01dabade0d6dac52ed8183f63",
+  "edition": 2413,
+  "date": 1646648873465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Legendary purple skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare black hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare cyber eye v.2.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

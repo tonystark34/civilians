@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5343",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5343.png",
+  "dna": "f166e40a0f58051ee5c4da634224aba23566a542",
+  "edition": 5343,
+  "date": 1646649020629,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare teenage headphones"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic monk's suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

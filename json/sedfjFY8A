@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7376",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7376.png",
+  "dna": "d2df3f9464a003bcb287d324ad3639d6591c6464",
+  "edition": 7376,
+  "date": 1646649131591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon brown wild hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary military uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

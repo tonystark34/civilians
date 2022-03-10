@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9855",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9855.png",
+  "dna": "809e6fcf82a5767751dc7b185e4acdc874dfe63a",
+  "edition": 9855,
+  "date": 1646649268081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary borning hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary military uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

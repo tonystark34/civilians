@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5697",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5697.png",
+  "dna": "edf3bd30d679bb72217c796823145349ea5569d0",
+  "edition": 5697,
+  "date": 1646649039626,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Legendary purple skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare construction helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic big boss costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

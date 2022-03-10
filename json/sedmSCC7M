@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5.png",
+  "dna": "785ab9d04f95331bae9de1db08ed0346908951e1",
+  "edition": 5,
+  "date": 1646648752569,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

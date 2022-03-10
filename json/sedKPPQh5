@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #740",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/740.png",
+  "dna": "ca2e6c790fed86e9472d53b68470a75b5c716456",
+  "edition": 740,
+  "date": 1646648789524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary chef's hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic Bandera suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

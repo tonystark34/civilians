@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5466",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5466.png",
+  "dna": "951981e7cca51f6ce65cdf9f985563dcb7e842ae",
+  "edition": 5466,
+  "date": 1646649027128,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon grey ponytail"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

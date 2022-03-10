@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4368",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4368.png",
+  "dna": "85f420051fcb9182ee91d0b5e0499a6cf6e9008f",
+  "edition": 4368,
+  "date": 1646648971570,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare black hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic Bandera suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

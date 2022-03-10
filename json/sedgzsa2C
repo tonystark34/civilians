@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #2811",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/2811.png",
+  "dna": "66e58fbf26baf91bd8207003796fe936903d61a6",
+  "edition": 2811,
+  "date": 1646648893409,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes with glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

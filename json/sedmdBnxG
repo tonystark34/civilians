@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #3007",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/3007.png",
+  "dna": "fbe9c44e7b3ede78283c710e2955210eaadac23d",
+  "edition": 3007,
+  "date": 1646648903217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare space helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4044",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4044.png",
+  "dna": "b68f2198487c37daed2a38cbc74db12ef2fb48ab",
+  "edition": 4044,
+  "date": 1646648955315,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary monk's hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic monk's suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes with glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

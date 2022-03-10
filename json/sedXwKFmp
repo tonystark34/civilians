@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7468",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7468.png",
+  "dna": "6192b868c96dd2333025cc6a6749a2283bb1e4dd",
+  "edition": 7468,
+  "date": 1646649136336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Legendary blue rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7895",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7895.png",
+  "dna": "441beab24b7c2cc7ee634df8c9f2f3d12a608f49",
+  "edition": 7895,
+  "date": 1646649159991,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare police hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary Ukranian civilian suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare cyber eye v.2.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

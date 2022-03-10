@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7892",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7892.png",
+  "dna": "4c018d009e1de62020b17883f8f3ad463203e00c",
+  "edition": 7892,
+  "date": 1646649159828,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare black hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare construction suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5523",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5523.png",
+  "dna": "dfa314b92740832756f8d13d22e6800be81cf3a2",
+  "edition": 5523,
+  "date": 1646649030035,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon grey ponytail"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary all black costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

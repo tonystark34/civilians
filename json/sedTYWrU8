@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4554",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4554.png",
+  "dna": "1ba964c9603364c663d0e0d990f6e76c5946e578",
+  "edition": 4554,
+  "date": 1646648980869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon brown wild hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare police uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

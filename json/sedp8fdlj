@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9665",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9665.png",
+  "dna": "f23a486384b73dd95ff1333ac69c91baafa30f27",
+  "edition": 9665,
+  "date": 1646649257775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare space helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare police uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

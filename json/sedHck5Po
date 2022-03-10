@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4224",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4224.png",
+  "dna": "631b90905991fe6205c3246511f4ac7240ae5d4b",
+  "edition": 4224,
+  "date": 1646648964368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary monk's hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic big boss costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9838",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9838.png",
+  "dna": "ffef133c07f48dc1cdded937976e754bac0a334d",
+  "edition": 9838,
+  "date": 1646649267107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Legendary purple skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common brown hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare construction suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare robo eyes with glasses v.1.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5413",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5413.png",
+  "dna": "cb95e983c8703a1bdeb968b3b9669d6dc608a517",
+  "edition": 5413,
+  "date": 1646649024254,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common grey hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare construction suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #6753",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/6753.png",
+  "dna": "f0fc1ca175034cd9bedb78cecbebe1fbdb659ef6",
+  "edition": 6753,
+  "date": 1646649097134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary grey Kozak hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare construction suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

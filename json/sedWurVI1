@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #6292",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/6292.png",
+  "dna": "55d934253ac63acac675f8c4000132731dba4c64",
+  "edition": 6292,
+  "date": 1646649072327,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare teenage headphones"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Uncommon grey uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

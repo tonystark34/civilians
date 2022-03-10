@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #860",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/860.png",
+  "dna": "a23ceedab008637115843c0b7aa9dc6865cf733c",
+  "edition": 860,
+  "date": 1646648795532,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common brown hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

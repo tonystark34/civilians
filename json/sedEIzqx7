@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9041",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9041.png",
+  "dna": "d4dc0a5c3b697d7736ab780ce8bda7b26772363e",
+  "edition": 9041,
+  "date": 1646649223537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common grey hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

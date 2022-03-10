@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #1262",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/1262.png",
+  "dna": "18b339e443f7ded856a035321ecad644efaa003f",
+  "edition": 1262,
+  "date": 1646648815622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare gold crown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "uncommonn whtie and grey uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare robo eyes with glasses v.1.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

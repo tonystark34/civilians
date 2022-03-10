@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5718",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5718.png",
+  "dna": "0d80dfa7a7aeb1c187f600c1e9fabb4e85dd8e86",
+  "edition": 5718,
+  "date": 1646649040741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic lover suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7513",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7513.png",
+  "dna": "e63bc4de2c81e8893d7b233e3912c57bd73163d0",
+  "edition": 7513,
+  "date": 1646649138986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Epic gold punk hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

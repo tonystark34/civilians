@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #3128",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/3128.png",
+  "dna": "927bc6fbdf42777b979244b0b0f2ceb6ced668c6",
+  "edition": 3128,
+  "date": 1646648909317,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare gold crown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

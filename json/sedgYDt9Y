@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9902",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9902.png",
+  "dna": "6ac97462352e28c3b8dee37cd4c9bc2757e295c8",
+  "edition": 9902,
+  "date": 1646649270546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Epic gold punk hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "uncommonn whtie and grey uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

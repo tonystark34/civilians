@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4375",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4375.png",
+  "dna": "c7f286f2e7ab740a0f862ca6d1683b088168700b",
+  "edition": 4375,
+  "date": 1646648971920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare teenage headphones"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common civilian clothes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

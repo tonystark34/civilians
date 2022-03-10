@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #298",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/298.png",
+  "dna": "ada70f4026feeec7a344bb415f69f2647085f605",
+  "edition": 298,
+  "date": 1646648767417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary space tendrils"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare astronaut suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

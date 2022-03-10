@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5858",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5858.png",
+  "dna": "6a5ebdb73a1e564fc2b48edd95d3a94d04b3573e",
+  "edition": 5858,
+  "date": 1646649048524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare gold crown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Super rare robo eyes v.3.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #6066",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/6066.png",
+  "dna": "07c84816e7fe9e4f2ebd53347ebc5de3874b0a91",
+  "edition": 6066,
+  "date": 1646649059824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare teenage headphones"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic Bandera suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

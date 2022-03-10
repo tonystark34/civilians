@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #4685",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/4685.png",
+  "dna": "83c38c4980a9ee699f259ff3546bd40f5830feef",
+  "edition": 4685,
+  "date": 1646648987429,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common brown hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary Ukranian civilian suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rare cyber eye v.2.0"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

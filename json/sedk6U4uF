@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8807",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8807.png",
+  "dna": "e5f934a6f9b514c7c8fa3002ee55029ed7027223",
+  "edition": 8807,
+  "date": 1646649210983,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare Einstein hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "uncommonn whtie and grey uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8825",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8825.png",
+  "dna": "80ac8a3aca9952d7b965e6a66804ed90b75c1307",
+  "edition": 8825,
+  "date": 1646649211934,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common brown hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic Bandera suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes with glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

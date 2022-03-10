@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #1421",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/1421.png",
+  "dna": "a151f0b59f3dfe40dbc127f53d6e4348a4c1aa74",
+  "edition": 1421,
+  "date": 1646648823563,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare construction helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare astronaut suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

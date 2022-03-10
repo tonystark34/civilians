@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #599",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/599.png",
+  "dna": "32c7f4ccde64ab2ca156ded176a48675049e9235",
+  "edition": 599,
+  "date": 1646648782478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon white skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common grey hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare astronaut suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

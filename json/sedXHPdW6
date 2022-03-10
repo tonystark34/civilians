@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8726",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8726.png",
+  "dna": "c4b5dbf628b3294a2bf5c04510b3a410b8c3a452",
+  "edition": 8726,
+  "date": 1646649206587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Epic gold skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare construction helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare police uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

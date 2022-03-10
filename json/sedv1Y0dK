@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8470",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8470.png",
+  "dna": "2d577367ffb516501569d40fe3a29f5f552651a1",
+  "edition": 8470,
+  "date": 1646649192144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Epic gold Kozak hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic big boss costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

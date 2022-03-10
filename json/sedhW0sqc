@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #9776",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/9776.png",
+  "dna": "1d4235d83818e886c4053a519eafa2a459090bcc",
+  "edition": 9776,
+  "date": 1646649263793,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rare green skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare construction helmet"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic monk's suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

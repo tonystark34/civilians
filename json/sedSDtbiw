@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8973",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8973.png",
+  "dna": "a6a3f9df838290d7513392914e2d3b7199ca2c9d",
+  "edition": 8973,
+  "date": 1646649219839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common grey hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare astronaut suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

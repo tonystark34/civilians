@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7059",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7059.png",
+  "dna": "298ea541179766964cda9d3d423a6d51e5af5e8c",
+  "edition": 7059,
+  "date": 1646649113831,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare Einstein hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary Ukranian civilian suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Epic gold rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

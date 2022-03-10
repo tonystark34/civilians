@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #8750",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/8750.png",
+  "dna": "7da7aae428f51a76eb9c5b484e69dec4cdd9cdcc",
+  "edition": 8750,
+  "date": 1646649207917,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare police hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic lover suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

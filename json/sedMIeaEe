@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #5712",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/5712.png",
+  "dna": "937820176f50f8dfc060c3a3e21787bf95d47c4b",
+  "edition": 5712,
+  "date": 1646649040421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "legendary_purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Legendary purple skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare gold crown"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic lover suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes with glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

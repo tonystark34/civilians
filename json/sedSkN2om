@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #700",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/700.png",
+  "dna": "8e3af015bc034719f497518119e655ba618d1117",
+  "edition": 700,
+  "date": 1646648787520,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon grey ponytail"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic lover suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Uncommon eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

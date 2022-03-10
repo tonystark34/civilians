@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #1215",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/1215.png",
+  "dna": "231008c137737fadcdde825fee1c7b173d8ef829",
+  "edition": 1215,
+  "date": 1646648813268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Rare teenage headphones"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Epic big boss costume"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Legendary blue rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #7903",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/7903.png",
+  "dna": "340f4bf40f4da54932bd87473532cb090ca70bbb",
+  "edition": 7903,
+  "date": 1646649160503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare_blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Uncommon black skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Uncommon grey ponytail"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Common black and white uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Legendary blue rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

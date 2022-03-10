@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #6065",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/6065.png",
+  "dna": "5793b6ce3429c5801a975d8dcdbd556403e95d83",
+  "edition": 6065,
+  "date": 1646649059761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "common_green"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Legendary chef's hat"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Legendary military uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Common eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

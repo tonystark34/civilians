@@ -1,0 +1,31 @@
+{
+  "name": "Civilian #2171",
+  "description": "Civilian NFT ",
+  "image": "ipfs://QmW6xjejExAdq65Av67PrGxz9TdrCrNtsfznPZjccck5NF/2171.png",
+  "dna": "75d7338008cc8c0d38b4f8fc14d0a3337e3691f0",
+  "edition": 2171,
+  "date": 1646648861169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "epic_gold"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Common skin"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Common grey hairstyle"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Rare police uniform"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Legendary blue rage laser eyes"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
